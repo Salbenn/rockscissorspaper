@@ -23,7 +23,7 @@ body {
 }
 
 .player-card:nth-child(2) {
-  transform: rotate(180deg);
+  transform: rotate(0deg);
 }
 
 .winner {
